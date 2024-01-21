@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Users/maryamkhan/Documents/PES/Semester5/MI/Lab1"
+		},
+		{
+			"path": "../../../../../../Users/maryamkhan/Documents/PES/Semester5/MI/Lab3"
+		},
+		{
+			"path": "../../phpcode"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Dee_Store-Simple_Online_Shopping_Website-main"
+		},
+		{
+			"path": "../../../../../../Users/maryamkhan/Documents/PES/Semester5/MI/Lab4/SVM"
+		}
+	],
+	"settings": {
+		"DockerRun.DisableDockerrc": true
+	}
+}
